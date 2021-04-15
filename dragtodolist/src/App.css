@@ -32,3 +32,20 @@
 .item.dragging {
     background-color: red;
 }
+input{
+  margin: 1%;
+  width: 20%;
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+}
+button{
+  padding: 10px;
+  width: 10%;
+  border: none;
+}
+button:hover{
+  background-color: red;
+  color: white;
+  font-size: 1rem;
+}
