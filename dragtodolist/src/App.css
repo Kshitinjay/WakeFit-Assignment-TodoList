@@ -14,7 +14,7 @@
 
 .droppable-col {
     width: 100%;
-    background-color: gray;
+    background-color: rgb(241, 241, 241);
     padding: 10px 10px 0 10px;
     border-radius: 7px;
     display: flex;
@@ -23,8 +23,8 @@
 
 .item {
     margin-bottom: 10px;
-    background-color: gray;
-    color: white;
+    background-color: rgb(241, 241, 241);
+    /* color: white; */
     padding: 5px;
     border-radius: 7px;
 }
